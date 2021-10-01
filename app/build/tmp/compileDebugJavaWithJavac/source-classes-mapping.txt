@@ -1,0 +1,27 @@
+com/masai/jiocinmea/model/BannerMovies.java
+ com.masai.jiocinmea.model.BannerMovies
+com/masai/jiocinmea/adapter/BannerMoviePagerAdapter.java
+ com.masai.jiocinmea.adapter.BannerMoviePagerAdapter
+ com.masai.jiocinmea.adapter.BannerMoviePagerAdapter$1
+com/masai/jiocinmea/MainActivity.java
+ com.masai.jiocinmea.MainActivity
+ com.masai.jiocinmea.MainActivity$1
+ com.masai.jiocinmea.MainActivity$AutoSlide
+com/masai/jiocinmea/adapter/MainRecyclerAdapter.java
+ com.masai.jiocinmea.adapter.MainRecyclerAdapter
+ com.masai.jiocinmea.adapter.MainRecyclerAdapter$MainViewHolder
+com/masai/jiocinmea/adapter/ItemRecyclerAdapter.java
+ com.masai.jiocinmea.adapter.ItemRecyclerAdapter
+ com.masai.jiocinmea.adapter.ItemRecyclerAdapter$1
+ com.masai.jiocinmea.adapter.ItemRecyclerAdapter$ItemViewHolder
+com/masai/jiocinmea/model/CategoryItem.java
+ com.masai.jiocinmea.model.CategoryItem
+com/masai/jiocinmea/model/AllCategory.java
+ com.masai.jiocinmea.model.AllCategory
+com/masai/jiocinmea/BuildConfig.java
+ com.masai.jiocinmea.BuildConfig
+com/masai/jiocinmea/MovieDetails.java
+ com.masai.jiocinmea.MovieDetails
+ com.masai.jiocinmea.MovieDetails$1
+com/masai/jiocinmea/VideoPlayerActivity.java
+ com.masai.jiocinmea.VideoPlayerActivity
