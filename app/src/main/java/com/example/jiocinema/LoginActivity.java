@@ -11,6 +11,7 @@ import android.widget.EditText;
 public class LoginActivity extends AppCompatActivity {
     private Button mBtnGenerateOtp, mLoginWithSim;
     private EditText mEtEnterJioNumber;
+    String code = "+91 ";
 
 
     @Override
@@ -23,7 +24,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(LoginActivity.this, Homepage.class);
-                intent.putExtra("phone", mEtEnterJioNumber.getText().toString());
+                intent.putExtra("phone",code+mEtEnterJioNumber.getText().toString());
                 startActivity(intent);
             }
         });
