@@ -12,7 +12,7 @@ public class LoginActivity extends AppCompatActivity {
     private Button mBtnGenerateOtp, mLoginWithSim;
     private EditText mEtEnterJioNumber;
     String code = "+91 ";
-
+    String nameRah = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
