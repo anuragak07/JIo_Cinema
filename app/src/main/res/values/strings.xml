@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">JioCinmea</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="jio_cinema">JioCinema</string>
+
+    <string name="enter_jio_number">Enter Jio Number</string>
+
+    <string name="generate_otp">Generate otp</string>
+
+    <string name="or">OR</string>
+
+    <string name="login_with_sim">login with sim</string>
+
+    <string name="enter_otp">Enter OTP</string>
+
+    <string name="more">More</string>
+
+    <string name="jio_recharge">Jio Recharge</string>
+
+    <string name="eros_now">Eros Now</string>
+
+    <string name="sun_next">Sun Next</string>
+
+    <string name="my_list">My List</string>
+
+    <string name="available_for_download">Available for Download</string>
+
+    <string name="my_downloads">My Downloads</string>
+
+    <string name="languages">Languages</string>
+
+    <string name="feedback">Feedback</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="support">Support</string>
+
+    <string name="genres">Genres</string>
+
+    <string name="log_out">Log Out</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
