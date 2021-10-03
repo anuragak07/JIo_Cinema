@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#1a1a1c"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_100"
+        android:src="@drawable/jiocinema_logo"
+        android:layout_marginBottom="10dp"
+        android:layout_marginVertical="@dimen/dp_10"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/jio_cinema"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="@dimen/sp_20"
+        android:layout_marginVertical="@dimen/dp_10"
+        />
+    <EditText
+
+        android:id="@+id/etEnterJioNumber"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:paddingLeft="@dimen/dp_20"
+        android:hint="@string/enter_jio_number"
+        android:background="@drawable/enter_number_bg"
+        android:layout_marginVertical="10dp"
+        android:layout_marginHorizontal="@dimen/dp_100"
+        />
+    <Button
+        android:id="@+id/btnGenerateOtp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/generate_otp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/login_bg"
+        android:layout_marginVertical="@dimen/dp_10"
+        android:layout_marginHorizontal="@dimen/dp_100"
+        />
+    <TextView
+        android:id="@+id/tvOr"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:text="@string/or"
+        android:layout_marginVertical="@dimen/dp_10"
+        android:textColor="#FFFFFF"
+        android:layout_marginHorizontal="@dimen/dp_100"
+        />
+    <Button
+        android:id="@+id/btnLoginWithSim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_with_sim"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/login_bg"
+        android:layout_marginVertical="@dimen/dp_10"
+        android:layout_marginHorizontal="@dimen/dp_100"
+        />
+
+</LinearLayout>

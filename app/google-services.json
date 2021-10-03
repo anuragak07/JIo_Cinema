@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918662539602",
+    "project_id": "jio-cinema-ed010",
+    "storage_bucket": "jio-cinema-ed010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918662539602:android:a8853b9aedfa8e1fc7728b",
+        "android_client_info": {
+          "package_name": "com.example.jiocinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918662539602-9tjin9levjikpb3egfcuttm7cmu4fodk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARBZv7364W4G47aR68jlOUZlslaXS6saE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918662539602-9tjin9levjikpb3egfcuttm7cmu4fodk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
